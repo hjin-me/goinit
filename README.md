@@ -1,0 +1,2 @@
+# goinit
+go init
